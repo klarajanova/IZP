@@ -5,11 +5,11 @@ Program description: The program searches for a way out in a maze specified by a
 		
 The program prints out the coordinates of successive shelves of the maze that lead out of the maze.
 Program arguments:
-	--help: prints help and exits the program
-	--test filename.txt: checks if the map is specified correctly
-	--rpath filename.txt: searches and prints the path from the given coordinate point according to the right-hand rule
-	--lpath filename.txt: searches and prints the path from the given coordinate point according to the left-hand rule
-	--shortest filename.txt: searches and prints the shortest possible path from the given coordinate point
+--help: prints help and exits the program
+--test filename.txt: checks if the map is specified correctly
+--rpath filename.txt: searches and prints the path from the given coordinate point according to the right-hand rule
+--lpath filename.txt: searches and prints the path from the given coordinate point according to the left-hand rule
+--shortest filename.txt: searches and prints the shortest possible path from the given coordinate point
 
 Parameter --shortest searches for the shortest way out of the maze
 The indexes row and col can be anywhere inside the maze.
